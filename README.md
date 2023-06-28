@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="left">about me:</h3>
-<p>:crescent_moon: &nbsp;  i'm a life-long learner passionate about programming, art, and education. <br> although i enjoy exploring the endless ways  to express myself through code (ask me about my charmander project), i have ultimately found a love for web development, which utilizes both the creative and problem-solving sides of my brain.</p>
+<p>:crescent_moon: &nbsp;  i'm a life-long learner passionate about programming, art, and education. although i enjoy exploring the endless ways  to express myself through code (ask me about my charmander project), i have ultimately found a love for web development, which utilizes both the creative and problem-solving sides of my brain.</p>
 
 <p>:crystal_ball: &nbsp;  i am also adamant about helping those around me grow as i grow and have dedicated time to several projects through the years centered on education and connection, including:
 <ul>
