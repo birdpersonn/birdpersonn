@@ -7,7 +7,7 @@
 
 <p>:crystal_ball: i am also adamant about helping those around me grow as i grow and have dedicated time to several projects through the years centered on education and connection, including:<br>
 - multiple club leadership positions focused on building community and opportunities on campus<br>
-- an internship helping faculty recreate introductory coding courses to better drive diversity in tech<br>
+- an internship working with faculty to recreate intro coding course to better drive diversity in tech<br>
 - presentations throughout campus sharing the vibrant history of women in computer science<br>
 </p>
 <br>
